@@ -39,9 +39,11 @@ so overall not too much happened today.
 ![image](https://i0.wp.com/cdn.mspaintadventures.com/storyfiles/hs2/01155.gif)
 
 hi, its me jack, back again, i dont really rember very much from today but i do know we learned to do shit on github as you can see (i wrote monday just like a minute before this lol) 
-We learned to use different markdown features such as putting an image on here and making bulletpoints
+We learned to use different markdown features such as putting an image on here and making bulletpoints.
+
 there was some technical difficultys today due to an influx of people coming in thus making us lose our desks but the reason for hat was because the office was having pizza that day,
  though i dont like pizza i might have a slice of cheese pizza sometimes.
+ 
  lastly we did a bit more of the blog and some of the people here had shared their experience in college with us and that was the end of today byeeeee
 
 sidenote: you guys should read homestuck whoever is reading this
@@ -61,7 +63,10 @@ sidenote: you guys should read homestuck whoever is reading this
 Jack is back 
 we started today with a stand up and writing a bit of our blog ,after,  had a short 10 minute break to talk
 At 10:30 we did an activity were we needed to build a rollercoaster with tape, cups and straws. We started by constructing wgat i called the coat hanger which looked vaguely like a coat hanger standing on four legs, we then started to make the actual coaster. we used a small box which the straws came ina pice of paper, about 6 paper cups ands two straws with alot of tape we put 2 of the paper cups in the box to siphon a ball through it and had the start be the piece of paper pointed upwards, that was the entrance and then we angled the box up with two straws and lastly we put 4 cups at the end curved into a kinda half loop.
-after that we had a short break and now we're writing this (we are writing the blog) 
+
+after that we had a short break and now we're writing this (the blog)
+
+later after lunch we had an activty where we needed to use tape and 20 pieces of pasta to build as high as we can and put a marshmellow on top to test if it falls. Our first "building" was 2 cubes with a cone on top but it failed and kept falling over, though our second tower stayed high the other team still won with a 1 cm difference
 
 ---
 
@@ -76,8 +81,8 @@ after that we had a short break and now we're writing this (we are writing the b
 
 **This is the text area where you can enter your blog details for Thursday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
+hello, im here to tell you what i did today.
+we started with a stand up again and we all voiced our opinions about yesterday which were all good things
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
 * Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
